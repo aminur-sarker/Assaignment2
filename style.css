@@ -1,0 +1,59 @@
+.nav-container{
+background-color: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+border: 2px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+.logo-Gamer{
+    display: flex;
+    width:50%;
+    padding-left: 50px;
+}
+
+.logo{
+    width: 80px;
+    height: 30px;
+    margin-top:40px;  
+}
+
+.gamer-text{
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.G-color{
+    color: rgb(251, 0, 134);
+}
+
+.nav-list{
+    width: 50%;
+    display: flex; 
+    justify-content: space-evenly;
+}
+
+.nav-list a{
+    text-decoration: none;
+}
+.nav-anchor-bg{
+    background-color: rgba(11, 2, 35, 0.10);
+    display: flex;
+    border-radius: 5px;
+}
+
+
+.youtube{
+    width: 34px;
+    height: 24px;
+    margin-left: 5px;
+}
+
+.tiktok{
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+}

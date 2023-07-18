@@ -1,0 +1,43 @@
+@media screen and (max-width:426px){
+    .nav-container{
+        display: grid;
+        grid-template-columns:repeat(1, 1fr);
+        
+    }
+    .logo-Gamer{
+        display: flex;
+        width:50%;
+        margin-left: 60px;
+        
+    }
+
+    .nav-list{
+        width: 50%;
+        display: grid; 
+        grid-template-columns:repeat(1, 1fr);
+        justify-content: space-evenly;
+        align-items: center;
+        margin-left: 100px;
+        margin-bottom: 5px;
+    }
+
+    .logo{
+        width: 50px;
+        height: 21px;
+    }
+    .gamer-text{
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .nav-list a{
+        padding-bottom: 10px;
+    }
+    .anchor1 , .anchor2{
+        margin-left: 60px
+    }
+    .nav-anchor-bg{
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+}
