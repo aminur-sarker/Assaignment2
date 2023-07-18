@@ -57,3 +57,26 @@ align-items: center;
     height: 24px;
     margin-left: 5px;
 }
+.goat-img-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.goat-text{
+    background-image: url(./Group\ 14.png);
+}
+
+.play-button, .download-icon, .online-game{
+    width: 24px;
+    height: 24px;
+}
+
+.three-icon1{
+    display: flex;
+    -ms-flex-direction:column;
+}
+
+.goat-img{
+    width: 5px;
+    height: 5px;
+}
