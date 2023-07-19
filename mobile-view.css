@@ -44,5 +44,52 @@
         display: grid;
         grid-template-columns:repeat(1, 1fr) ;
     }
-    
+    .goat-text{
+        padding-left: 40px;
+    }
+    .four-img{
+        display: grid;
+        grid-template-columns:repeat(1, 1fr) ;
+        width: 113%;
+        height:90%;
+    }
+    .play , .goat , .three-icon a{
+       padding-left: 50px;
+    }
+    .four-img1-size{
+
+    }
+    .horse{
+        display: grid;
+        grid-template-columns:repeat(1, 1fr) ;
+    }
+    .horse-text{
+        text-align: center;
+    }
+    .horse-man{
+        padding-left: 130px;
+        width: 265px ;
+    }
+    .rectangle6{
+        align-items: flex-start;
+        width: 100px;
+        height: 120px;
+        padding-left: 20%;
+        position: relative;
+        top: -90px;
+        min-height: calc(100% - 41px);
+    }
+
+    .Games-link{
+
+        display: grid;
+        grid-template-columns:repeat(3, 1fr) ;
+        justify-content: space-evenly;
+    }
+    .img-5, .img-4{
+        display: grid;
+        grid-template-columns:repeat(1, 1fr) ;
+        justify-content: space-evenly;
+        padding-left: 50px;
+    }
 }
