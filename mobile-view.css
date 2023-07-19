@@ -39,5 +39,10 @@
         align-items: center;
         justify-content: space-evenly;
     }
+
+    .goat-img-section{
+        display: grid;
+        grid-template-columns:repeat(1, 1fr) ;
+    }
     
 }
